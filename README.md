@@ -13,7 +13,7 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
   **Recommend:**  [BTT EBB42](https://www.aliexpress.com/item/1005004242828520.html), [BTT EBB36](https://www.aliexpress.com/item/1005004242828520.html), or our custom-designed **[SLB Mainboard](https://github.com/kashine6/SLB-Board-For-EMU)**
 
-  **Tips: ** The number of required mainboards matches the number of lanes.
+  **Tips:**  The number of required mainboards matches the number of lanes.
 
 - **CANBUS Cable:** The **XT30 (2+2) cable** used to interface the EMU with your 3D printer is **not included**. 
 
