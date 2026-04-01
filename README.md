@@ -10,12 +10,14 @@ This is a comprehensive hardware kit for the EMU (Expandable Multi-material Unit
 This kit is strictly organized based on the **[Official EMU BOM](https://docs.google.com/spreadsheets/d/1jYJXBgpc_iLDfC17fC2LTYKrSEy5ocPbGEQ_EEOGCvI)**. It includes all mechanical parts, motors, and electronic components required to complete the build, with the following **exceptions**:
 
 - **Mainboard (MCU):** To allow for user preference (e.g., BTT EBB42, BTT EBB36, or our custom-designed **SLB Mainboard**), the main controller is **not included**.
-- **CANBUS Cable:** The **XT30 (2+2) cable** used to interface the EMU with your 3D printer is **not included**. Recommend purchasing the **BigTreeTech XT30(2+2) Cable**
+- **CANBUS Cable:** The **XT30 (2+2) cable** used to interface the EMU with your 3D printer is **not included**. Recommend purchasing the **BigTreeTech XT30(2+2) Cable**.
 - **Mainboard Terminals:** Since most MCUs come with their own connectors, this kit **does not include** the terminals typically bundled with your mainboard (such as JST XH/PH), with the exception of **Dupont connectors** which are included.
 
 
 
+<img src="Assets/1.jpg" width="60%"/>
 
+<img src="Assets/2.jpg" width="40%"/>
 
 **Current Version:** This initial release is exclusively configured for the **5-lane version** of the EMU.
 
