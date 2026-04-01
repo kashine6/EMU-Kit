@@ -1,9 +1,5 @@
 # EMU-Kit
-This is a hardware kit for the EMU (Expandable Multi-material Unit), an open-source multi-material system. 
-
-This kit is designed to provide a seamless building experience by gathering all necessary high-quality components in one package.
-
-
+The EMU (Expandable Multi-material Unit) is an open-source multi-material system, and this kit collects all the high-quality components you need for a smooth, hassle-free build.
 
 
 
