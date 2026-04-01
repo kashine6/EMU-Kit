@@ -17,7 +17,7 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
 <img src="Assets/1.jpg" width="70%"/>
 
-<img src="Assets/2.jpg" width="40%"/>
+<img src="Assets/2.jpg" width="60%"/>
 
 
 
@@ -29,7 +29,7 @@ We have upgraded the base EMU experience by including the following integrated M
 2. **[Multi-LED Button](https://github.com/DW-Tas/EMU/tree/main/PCB%20(recommended%20options)/multi_led_button):** Provides a high-quality physical interface with RGB status indicators for manual filament control.
 3. **[EMU IO Board](https://github.com/kashine6/EMU-IO-Board):** Centralizes connections and enhances the overall input/output reliability of the unit.
 
-<img src="Assets/3.jpg" width="60%"/>
+<img src="Assets/3.jpg" width="80%"/>
 
 ## Documentation & Support
 
