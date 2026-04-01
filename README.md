@@ -9,7 +9,7 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
 - **Mainboard (MCU):** To allow for user preference, the main controller is **not included**. 
 
-  **Recommend:**  [BTT EBB42](https://www.aliexpress.com/item/1005004242828520.html), [BTT EBB36](https://www.aliexpress.com/item/1005004242828520.html), or our custom-designed **[SLB Mainboard](https://github.com/kashine6/SLB-Board-For-EMU)**
+  **Recommend:**  [BTT EBB42](https://www.aliexpress.com/item/1005004242828520.html), [BTT EBB36](https://www.aliexpress.com/item/1005004242828520.html), or our custom-designed [SLB Mainboard](https://github.com/kashine6/SLB-Board-For-EMU).
 
   💡**Note: ** 
 
