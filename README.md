@@ -9,8 +9,16 @@ This is a comprehensive hardware kit for the EMU (Expandable Multi-material Unit
 
 This kit is strictly organized based on the **[Official EMU BOM](https://docs.google.com/spreadsheets/d/1jYJXBgpc_iLDfC17fC2LTYKrSEy5ocPbGEQ_EEOGCvI)**. It includes all mechanical parts, motors, and electronic components required to complete the build, with the following **exceptions**:
 
-- **Mainboard (MCU):** To allow for user preference (e.g., [BTT EBB42](https://www.aliexpress.com/item/1005004242828520.html), [BTT EBB36](https://www.aliexpress.com/item/1005004242828520.html), or our custom-designed **[SLB Mainboard](https://github.com/kashine6/SLB-Board-For-EMU)**), the main controller is **not included**. The number of required mainboards matches the number of lanes.
-- **CANBUS Cable:** The **XT30 (2+2) cable** used to interface the EMU with your 3D printer is **not included**. Recommend purchasing the **BigTreeTech XT30(2+2) Cable**.
+- **Mainboard (MCU):** To allow for user preference, the main controller is **not included**. 
+
+  **Recommend: ** [BTT EBB42](https://www.aliexpress.com/item/1005004242828520.html), [BTT EBB36](https://www.aliexpress.com/item/1005004242828520.html), or our custom-designed **[SLB Mainboard](https://github.com/kashine6/SLB-Board-For-EMU)**
+
+  **Tips: **The number of required mainboards matches the number of lanes.
+
+- **CANBUS Cable:** The **XT30 (2+2) cable** used to interface the EMU with your 3D printer is **not included**. 
+
+  Recommend purchasing the **BigTreeTech XT30(2+2) Cable**.
+
 - **Mainboard Terminals:** Since most MCUs come with their own connectors, this kit **does not include** the terminals typically bundled with your mainboard (such as JST XH/PH), with the exception of **Dupont connectors** which are included.
 
 
