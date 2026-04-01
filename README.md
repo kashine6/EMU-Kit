@@ -22,7 +22,7 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
 - **Mainboard Terminals:** Since most MCUs come with their own connectors, this kit **does not include** the terminals typically bundled with your mainboard (such as JST XH/PH), with the exception of **Dupont connectors** which are included.
 
-- **Printed Parts: **All printed parts are not included.
+- **Printed Parts: ** All printed parts are not included.
 
 
 
