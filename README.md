@@ -11,7 +11,7 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
   **Recommend:**  [BTT EBB42](https://www.aliexpress.com/item/1005004242828520.html), [BTT EBB36](https://www.aliexpress.com/item/1005004242828520.html), or our custom-designed [SLB Mainboard](https://github.com/kashine6/SLB-Board-For-EMU).
 
-  **💡Note: ** 
+  **💡Note:**   
 
   - The number of required mainboards matches the number of lanes.
   - The EBB42 is more cost-effective option, while the SLB simplifies wiring and is specifically designed for the EMU ⚡.
@@ -39,7 +39,7 @@ We have upgraded the base EMU experience by including the following integrated M
 3. **[PSF Sensor Kit](https://github.com/kashine6/Proportional-Sync-Feedback-Sensor):** A more advanced feedback solution that uses analog signals.
 4. **[EMU IO Board](https://github.com/kashine6/EMU-IO-Board):** Centralizes connections and enhances the overall input/output reliability of the unit.
 
-**💡Note: ** 
+**💡Note:**   
 
 - Each lane requires one Hatch Board and one Multi-LED Button. 
 
