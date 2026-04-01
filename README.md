@@ -15,11 +15,14 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
   **Recommend:**  [BTT EBB42](https://www.aliexpress.com/item/1005004242828520.html), [BTT EBB36](https://www.aliexpress.com/item/1005004242828520.html), or our custom-designed **[SLB Mainboard](https://github.com/kashine6/SLB-Board-For-EMU)**
 
-  Tips: The number of required mainboards matches the number of lanes.
+  💡**Note: ** 
+
+  - The number of required mainboards matches the number of lanes.
+  - The EBB42 is more cost-effective option, while the SLB simplifies wiring and is specifically designed for the EMU ⚡.
 
 - **CANBUS Cable:** The **XT30 (2+2) cable** used to interface the EMU with your 3D printer is **not included**. 
 
-  Recommend purchasing the **BigTreeTech XT30(2+2) Cable**.
+  ✅Recommend purchasing the **BigTreeTech XT30(2+2) Cable**.
 
 - **Mainboard Terminals:** Since most MCUs come with their own connectors, this kit **does not include** the terminals typically bundled with your mainboard (such as JST XH/PH), with the exception of **Dupont connectors** which are included.
 
@@ -35,10 +38,16 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
 We have upgraded the base EMU experience by including the following integrated MOD boards:
 
-1. **[Hatch Board](https://github.com/DW-Tas/EMU/tree/main/PCB%20(recommended%20options)/hatch_board):** Simplifies internal sensor wiring and creates a much cleaner internal layout.
+1. **[Hatch Board](https://github.com/DW-Tas/EMU/tree/main/PCB%20(recommended%20options)/hatch_board):** Simplifies internal sensor wiring and creates a much cleaner internal layout. 
 2. **[Multi-LED Button](https://github.com/DW-Tas/EMU/tree/main/PCB%20(recommended%20options)/multi_led_button):** Provides a high-quality physical interface with RGB status indicators for manual filament control.
-3. **[PSF Sensor Kit](https://github.com/kashine6/Proportional-Sync-Feedback-Sensor):** a more advanced feedback solution that uses analog signals.
+3. **[PSF Sensor Kit](https://github.com/kashine6/Proportional-Sync-Feedback-Sensor):** A more advanced feedback solution that uses analog signals.
 4. **[EMU IO Board](https://github.com/kashine6/EMU-IO-Board):** Centralizes connections and enhances the overall input/output reliability of the unit.
+
+**💡Note: **
+
+- Each lane requires one Hatch Board and one Multi-LED Button. 
+
+- The PSF board and IO board are included once per kit. 
 
 <img src="Assets/4.jpg" width="80%"/>
 
