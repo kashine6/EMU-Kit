@@ -25,8 +25,8 @@ This kit is strictly organized based on the **[Official EMU BOM](https://docs.go
 
 We have upgraded the base EMU experience by including the following integrated MOD boards:
 
-1. **[Hatch Board](https://github.com/DW-Tas/EMU/tree/main/PCB (recommended options)/hatch_board):** Simplifies internal sensor wiring and creates a much cleaner internal layout.
-2. **[Multi-LED Button](https://github.com/DW-Tas/EMU/tree/main/PCB (recommended options)/multi_led_button):** Provides a high-quality physical interface with RGB status indicators for manual filament control.
+1. **[Hatch Board](https://github.com/DW-Tas/EMU/tree/main/PCB \(recommended options\)/hatch_board):** Simplifies internal sensor wiring and creates a much cleaner internal layout.
+2. **[Multi-LED Button](https://github.com/DW-Tas/EMU/tree/main/PCB \(recommended options\)/multi_led_button):** Provides a high-quality physical interface with RGB status indicators for manual filament control.
 3. **[EMU IO Board](https://github.com/kashine6/EMU-IO-Board):** Centralizes connections and enhances the overall input/output reliability of the unit.
 
 
