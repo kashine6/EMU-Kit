@@ -1,5 +1,7 @@
 # EMU-Kit
-This is a comprehensive hardware kit for the EMU (Expandable Multi-material Unit), an open-source multi-material system. This kit is designed to provide a seamless building experience by gathering all necessary high-quality components in one package.
+This is a hardware kit for the EMU (Expandable Multi-material Unit), an open-source multi-material system. 
+
+This kit is designed to provide a seamless building experience by gathering all necessary high-quality components in one package.
 
 
 
@@ -35,9 +37,10 @@ We have upgraded the base EMU experience by including the following integrated M
 
 1. **[Hatch Board](https://github.com/DW-Tas/EMU/tree/main/PCB%20(recommended%20options)/hatch_board):** Simplifies internal sensor wiring and creates a much cleaner internal layout.
 2. **[Multi-LED Button](https://github.com/DW-Tas/EMU/tree/main/PCB%20(recommended%20options)/multi_led_button):** Provides a high-quality physical interface with RGB status indicators for manual filament control.
-3. **[EMU IO Board](https://github.com/kashine6/EMU-IO-Board):** Centralizes connections and enhances the overall input/output reliability of the unit.
+3. **[PSF Sensor Kit](https://github.com/kashine6/Proportional-Sync-Feedback-Sensor):** a more advanced feedback solution that uses analog signals.
+4. **[EMU IO Board](https://github.com/kashine6/EMU-IO-Board):** Centralizes connections and enhances the overall input/output reliability of the unit.
 
-<img src="Assets/3.jpg" width="80%"/>
+<img src="Assets/4.jpg" width="80%"/>
 
 ## Documentation & Support
 
